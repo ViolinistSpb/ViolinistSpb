@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ViolinistSpb
+- 👋 Hi, I’m *@ViolinistSpb*
 - 👀 I’m interested in music, coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on collegs
